@@ -13,5 +13,6 @@ Interactive Terminal Commands:
 Navigate and interact with the world through a text-driven console interface.
 
 ### How to Run
-To play the game, click this link: https://codehs.com/sandbox/id/rpg-game-fJghVt
+To play the game, click this link to the sandbox and hit "run": https://codehs.com/sandbox/id/rpg-game-fJghVt
+
 
